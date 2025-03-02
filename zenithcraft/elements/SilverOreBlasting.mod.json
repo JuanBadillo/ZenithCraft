@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.7,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:SilverOre"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:SilverIngot"
+    },
+    "name": "silver_ore_blasting",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 60,
+  "_type": "trimmaterial",
+  "definition": {
+    "name": "Silver Material",
+    "item": {
+      "value": "CUSTOM:SilverIngot"
+    },
+    "color1": {
+      "value": -525060,
+      "falpha": 0.0
+    },
+    "color2": {
+      "value": -2105117,
+      "falpha": 0.0
+    },
+    "color3": {
+      "value": -6113347,
+      "falpha": 0.0
+    },
+    "color4": {
+      "value": -7626580,
+      "falpha": 0.0
+    },
+    "color5": {
+      "value": -9469037,
+      "falpha": 0.0
+    },
+    "color6": {
+      "value": -10522753,
+      "falpha": 0.0
+    },
+    "color7": {
+      "value": -11509129,
+      "falpha": 0.0
+    },
+    "color8": {
+      "value": -12363920,
+      "falpha": 0.0
+    }
+  }
+}

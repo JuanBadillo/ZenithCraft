@@ -1,0 +1,92 @@
+{
+  "_fv": 60,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "ghost_mask",
+    "enableBody": false,
+    "textureBody": "bronze_infernal_chestplate",
+    "enableLeggings": false,
+    "textureLeggings": "bronzel_infernal_leggings",
+    "enableBoots": false,
+    "textureBoots": "bronze_infernal_boots",
+    "creativeTab": {
+      "value": "CUSTOM:ZenithHolidays"
+    },
+    "armorTextureFile": "bronze_crown_",
+    "helmetName": "Ghost Mask",
+    "bodyName": "Bronze Chestplate",
+    "leggingsName": "Bronze Leggings",
+    "bootsName": "Bronze Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": [
+        "§7Infernal Design"
+      ]
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": [
+        "§7Infernal Design"
+      ]
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": [
+        "§7Infernal Design"
+      ]
+    },
+    "helmetModelName": "Modelghost_mask",
+    "helmetModelPart": "bone",
+    "helmetModelTexture": "ghost_mask.png",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "helmetPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bodyPiglinNeutral": {
+      "fixedValue": false
+    },
+    "leggingsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bootsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "maxDamage": 15,
+    "damageValueHelmet": 0,
+    "damageValueBody": 5,
+    "damageValueLeggings": 4,
+    "damageValueBoots": 1,
+    "enchantability": 0,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "item.armor.equip_leather"
+    },
+    "repairItems": []
+  }
+}

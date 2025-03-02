@@ -1,0 +1,42 @@
+{
+  "_fv": 60,
+  "_type": "trimmaterial",
+  "definition": {
+    "name": "Amah Material",
+    "item": {
+      "value": "CUSTOM:AmahIngot"
+    },
+    "color1": {
+      "value": -1198913,
+      "falpha": 0.0
+    },
+    "color2": {
+      "value": -1857614,
+      "falpha": 0.0
+    },
+    "color3": {
+      "value": -2454887,
+      "falpha": 0.0
+    },
+    "color4": {
+      "value": -3184517,
+      "falpha": 0.0
+    },
+    "color5": {
+      "value": -3715227,
+      "falpha": 0.0
+    },
+    "color6": {
+      "value": -4047274,
+      "falpha": 0.0
+    },
+    "color7": {
+      "value": -5294002,
+      "falpha": 0.0
+    },
+    "color8": {
+      "value": -8574920,
+      "falpha": 0.0
+    }
+  }
+}

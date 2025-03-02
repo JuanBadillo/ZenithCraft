@@ -1,0 +1,42 @@
+{
+  "_fv": 60,
+  "_type": "trimmaterial",
+  "definition": {
+    "name": "Umbrum Material",
+    "item": {
+      "value": "CUSTOM:UmbrumIngot"
+    },
+    "color1": {
+      "value": -12051868,
+      "falpha": 0.0
+    },
+    "color2": {
+      "value": -12445604,
+      "falpha": 0.0
+    },
+    "color3": {
+      "value": -13036210,
+      "falpha": 0.0
+    },
+    "color4": {
+      "value": -13364408,
+      "falpha": 0.0
+    },
+    "color5": {
+      "value": -13692607,
+      "falpha": 0.0
+    },
+    "color6": {
+      "value": -13955013,
+      "falpha": 0.0
+    },
+    "color7": {
+      "value": -14283212,
+      "falpha": 0.0
+    },
+    "color8": {
+      "value": -14808534,
+      "falpha": 0.0
+    }
+  }
+}

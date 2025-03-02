@@ -1,0 +1,42 @@
+{
+  "_fv": 60,
+  "_type": "trimmaterial",
+  "definition": {
+    "name": "Bronze Material",
+    "item": {
+      "value": "CUSTOM:BronzeIngot"
+    },
+    "color1": {
+      "value": -2113914,
+      "falpha": 0.0
+    },
+    "color2": {
+      "value": -2378380,
+      "falpha": 0.0
+    },
+    "color3": {
+      "value": -5142451,
+      "falpha": 0.0
+    },
+    "color4": {
+      "value": -6788812,
+      "falpha": 0.0
+    },
+    "color5": {
+      "value": -7907290,
+      "falpha": 0.0
+    },
+    "color6": {
+      "value": -9222628,
+      "falpha": 0.0
+    },
+    "color7": {
+      "value": -10670571,
+      "falpha": 0.0
+    },
+    "color8": {
+      "value": -11853042,
+      "falpha": 0.0
+    }
+  }
+}

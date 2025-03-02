@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SilverIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SilverIngot"
+      },
+      {
+        "value": "TAG:forge:glass/colorless"
+      },
+      {
+        "value": "CUSTOM:SilverIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:forge:glass/colorless"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OneWayGlass"
+    },
+    "name": "one_way_glass_recipe",
+    "namespace": "mod"
+  }
+}
