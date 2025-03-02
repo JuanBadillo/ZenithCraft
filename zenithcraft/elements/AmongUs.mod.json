@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "EPIC",
+    "texture": "music_discs_amongus",
+    "description": "Among Us",
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraftMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:amogus"
+    },
+    "lengthInTicks": 1680,
+    "analogOutput": 0
+  }
+}

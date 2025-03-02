@@ -1,0 +1,31 @@
+{
+  "_fv": 60,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "crucible_jei_type",
+    "result": {
+      "value": "CUSTOM:MoltenBronzeBucket"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:BronzeIngot"
+      },
+      {
+        "value": "CUSTOM:BronzeIngot"
+      },
+      {
+        "value": "CUSTOM:BronzeIngot"
+      },
+      {
+        "value": "CUSTOM:BronzeIngot"
+      },
+      {
+        "value": "Items.BUCKET"
+      },
+      {
+        "value": "CUSTOM:MoltenBronze"
+      }
+    ]
+  }
+}

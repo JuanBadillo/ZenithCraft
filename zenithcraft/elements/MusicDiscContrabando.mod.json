@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "EPIC",
+    "texture": "music_discs_tigres",
+    "description": "Los Tigres del Norte - Contrabando y Traicion",
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraftMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:tigres_contrabando"
+    },
+    "lengthInTicks": 4640,
+    "analogOutput": 0
+  }
+}

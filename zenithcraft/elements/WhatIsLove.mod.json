@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "EPIC",
+    "texture": "music_disc_whatislove",
+    "description": "TWICE - What Is Love?",
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraftMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:twice_whatislove"
+    },
+    "lengthInTicks": 4800,
+    "analogOutput": 0
+  }
+}

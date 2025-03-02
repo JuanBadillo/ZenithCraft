@@ -1,0 +1,61 @@
+{
+  "_fv": 60,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "jei_crucible.png",
+    "width": 135,
+    "height": 58,
+    "icon": {
+      "value": "CUSTOM:Crucible"
+    },
+    "craftingtable": {
+      "value": "CUSTOM:Crucible"
+    },
+    "enableCraftingtable": true,
+    "title": "Melting",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 11,
+        "y": 11,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 11,
+        "y": 29,
+        "slotid": 1
+      },
+      {
+        "type": "INPUT",
+        "x": 29,
+        "y": 11,
+        "slotid": 2
+      },
+      {
+        "type": "INPUT",
+        "x": 29,
+        "y": 29,
+        "slotid": 3
+      },
+      {
+        "type": "OUTPUT",
+        "x": 105,
+        "y": 20,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 77,
+        "y": 29,
+        "slotid": 4
+      },
+      {
+        "type": "INPUT",
+        "x": 77,
+        "y": 11,
+        "slotid": 5
+      }
+    ]
+  }
+}

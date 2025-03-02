@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GreenApple"
+      },
+      {
+        "value": "Items.MELON"
+      },
+      {
+        "value": "Items.MELON"
+      },
+      {
+        "value": "TAG:forge:berries"
+      },
+      {
+        "value": "TAG:forge:berries"
+      },
+      {
+        "value": "Items.PUMPKIN_PIE"
+      },
+      {
+        "value": "Items.BOWL"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.RABBIT_STEW"
+    },
+    "name": "fruit_salad_recipe",
+    "namespace": "mod"
+  }
+}

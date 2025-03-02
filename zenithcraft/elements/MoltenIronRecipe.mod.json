@@ -1,0 +1,31 @@
+{
+  "_fv": 60,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "crucible_jei_type",
+    "result": {
+      "value": "CUSTOM:MoltenIronBucket"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.BUCKET"
+      },
+      {
+        "value": "CUSTOM:MoltenIron"
+      }
+    ]
+  }
+}

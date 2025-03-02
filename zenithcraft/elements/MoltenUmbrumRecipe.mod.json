@@ -1,0 +1,31 @@
+{
+  "_fv": 60,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "crucible_jei_type",
+    "result": {
+      "value": "CUSTOM:MoltenNetheriteBucket"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:UmbrumIngot"
+      },
+      {
+        "value": "CUSTOM:UmbrumIngot"
+      },
+      {
+        "value": "CUSTOM:UmbrumIngot"
+      },
+      {
+        "value": "CUSTOM:UmbrumIngot"
+      },
+      {
+        "value": "Items.BUCKET"
+      },
+      {
+        "value": "CUSTOM:MoltenNetherite"
+      }
+    ]
+  }
+}

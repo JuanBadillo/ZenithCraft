@@ -1,0 +1,31 @@
+{
+  "_fv": 60,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "crucible_jei_type",
+    "result": {
+      "value": "CUSTOM:MoltenAmahBucket"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:AmahIngot"
+      },
+      {
+        "value": "CUSTOM:AmahIngot"
+      },
+      {
+        "value": "CUSTOM:AmahIngot"
+      },
+      {
+        "value": "CUSTOM:AmahIngot"
+      },
+      {
+        "value": "Items.BUCKET"
+      },
+      {
+        "value": "CUSTOM:MoltenAmah"
+      }
+    ]
+  }
+}

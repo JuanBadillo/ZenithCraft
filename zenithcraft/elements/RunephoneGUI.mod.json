@@ -1,0 +1,145 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Message",
+          "name": "runephone_text",
+          "width": 120,
+          "height": 20,
+          "x": 159,
+          "y": 98
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "To: Player",
+          "name": "runephone_recipient",
+          "width": 120,
+          "height": 20,
+          "x": 159,
+          "y": 71
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_runephone_button",
+          "image": "runephone_button.png",
+          "hoveredImage": "runephone_button_hover.png",
+          "onClick": {
+            "name": "RunephoneGUIClick"
+          },
+          "x": 204,
+          "y": 123
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_write_the_correct_ingame_name_o",
+          "text": {
+            "fixedValue": "Correct ingame name of the player"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 135,
+          "y": 70
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gui_message.png",
+          "use1Xscale": false,
+          "x": 143,
+          "y": 100
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gui_player.png",
+          "use1Xscale": false,
+          "x": 143,
+          "y": 73
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_runephone",
+          "text": {
+            "fixedValue": "Runephone"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 189,
+          "y": 43
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_private_message_to_the_player",
+          "text": {
+            "fixedValue": "Private message to the player"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 135,
+          "y": 96
+        }
+      },
+      {
+        "type": "entitymodel",
+        "data": {
+          "entityModel": {
+            "name": "RunephoneGUIWhileThisGUIIsOpenTick"
+          },
+          "scale": 30,
+          "rotationX": 0,
+          "followMouseMovement": true,
+          "x": 259,
+          "y": 168
+        }
+      },
+      {
+        "type": "entitymodel",
+        "data": {
+          "entityModel": {
+            "name": "PlayerRenderer"
+          },
+          "scale": 30,
+          "rotationX": 0,
+          "followMouseMovement": true,
+          "x": 148,
+          "y": 168
+        }
+      }
+    ],
+    "onTick": {
+      "name": "RunephoneGUIWhileThisGUIIsOpenTick"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}
