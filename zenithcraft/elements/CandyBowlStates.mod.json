@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "blockstates",
+  "definition": {
+    "block": "CandyBowl",
+    "blockstateList": [
+      {
+        "texture": "candy_bowl_candy",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "candy_bowl_full:default",
+        "luminance": 0,
+        "boundingBoxes": []
+      }
+    ]
+  }
+}

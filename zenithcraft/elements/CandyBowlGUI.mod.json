@@ -1,0 +1,232 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 231,
+          "y": 79
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 251,
+          "y": 79
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 271,
+          "y": 79
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:CandyBasket"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 3,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 137,
+          "y": 79
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_runephone_button",
+          "image": "pumpkin_button.png",
+          "hoveredImage": "pumpkin_button_hover.png",
+          "onClick": {
+            "name": "CandyBowlGenerator"
+          },
+          "x": 190,
+          "y": 78
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:SoulInABottle"
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 4,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 160,
+          "y": 79
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_inventory",
+          "text": {
+            "fixedValue": "Inventory"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 132,
+          "y": 110
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_trick_or_treat",
+          "text": {
+            "fixedValue": "Trick or Treat!"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 188,
+          "y": 76
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_candy_bowl",
+          "text": {
+            "fixedValue": "Candy Bowl"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 191,
+          "y": 41
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rain_icon.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IsRaining"
+          },
+          "x": 271,
+          "y": 42
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_rain_bonus",
+          "text": {
+            "fixedValue": "Rain Bonus!"
+          },
+          "displayCondition": {
+            "name": "IsRaining"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 271,
+          "y": 42
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "moons_icon.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "IsFullMoon"
+          },
+          "x": 133,
+          "y": 43
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_full_moon_bonus",
+          "text": {
+            "fixedValue": "Full Moons Bonus!"
+          },
+          "displayCondition": {
+            "name": "IsFullMoon"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 133,
+          "y": 43
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_soul_in_a_bottle",
+          "text": {
+            "fixedValue": "Soul In A Bottle"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 157,
+          "y": 76
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_candy_basket",
+          "text": {
+            "fixedValue": "Candy Basket"
+          },
+          "width": 24,
+          "height": 24,
+          "x": 133,
+          "y": 76
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

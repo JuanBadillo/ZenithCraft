@@ -1,0 +1,25 @@
+{
+  "_fv": 60,
+  "_type": "enchantment",
+  "definition": {
+    "name": "Trick O' Treating",
+    "type": "BREAKABLE",
+    "rarity": "COMMON",
+    "minLevel": 1,
+    "maxLevel": 1,
+    "damageModifier": 0,
+    "compatibleEnchantments": [],
+    "excludeEnchantments": false,
+    "compatibleItems": [
+      {
+        "value": "CUSTOM:CandyBasket"
+      }
+    ],
+    "excludeItems": false,
+    "isTreasureEnchantment": true,
+    "isCurse": false,
+    "isAllowedOnBooks": true,
+    "canGenerateInLootTables": false,
+    "canVillagerTrade": false
+  }
+}

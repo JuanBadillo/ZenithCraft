@@ -1,0 +1,11 @@
+{
+  "_fv": 60,
+  "_type": "armortrim",
+  "definition": {
+    "name": "Soultrap",
+    "item": {
+      "value": "CUSTOM:SoultrapTrim"
+    },
+    "armorTextureFile": "wraith_"
+  }
+}

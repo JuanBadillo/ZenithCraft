@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "§dMusic Disc",
+    "rarity": "RARE",
+    "texture": "music_disc_everybody",
+    "description": "Backstreet Boys - Everybody",
+    "creativeTab": {
+      "value": "CUSTOM:ZenithHolidays"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:backstreet_everybody"
+    },
+    "lengthInTicks": 6760,
+    "analogOutput": 0
+  }
+}

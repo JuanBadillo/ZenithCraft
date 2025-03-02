@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "§dMusic Disc",
+    "rarity": "RARE",
+    "texture": "music_disc_thriller",
+    "description": "Michael Jackson - Thriller",
+    "creativeTab": {
+      "value": "CUSTOM:ZenithHolidays"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:mj_thriller"
+    },
+    "lengthInTicks": 6480,
+    "analogOutput": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "§dMusic Disc",
+    "rarity": "RARE",
+    "texture": "music_disc_tt",
+    "description": "TWICE - TT",
+    "creativeTab": {
+      "value": "CUSTOM:ZenithHolidays"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:twice_tt"
+    },
+    "lengthInTicks": 4880,
+    "analogOutput": 0
+  }
+}

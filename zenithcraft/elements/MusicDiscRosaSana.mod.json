@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "music_discs_rosapastel",
+    "description": "SANA (IA) - Rosa Pastel",
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraftMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:sana_rosapastel"
+    },
+    "lengthInTicks": 3840,
+    "analogOutput": 0
+  }
+}

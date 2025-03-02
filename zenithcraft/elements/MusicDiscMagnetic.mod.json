@@ -1,0 +1,24 @@
+{
+  "_fv": 60,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "rarity": "RARE",
+    "texture": "music_disc_magnetic",
+    "description": "ILLIT - Magnetic",
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraftMusic"
+    },
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "music": {
+      "value": "CUSTOM:illit_magnetic"
+    },
+    "lengthInTicks": 4000,
+    "analogOutput": 0
+  }
+}
