@@ -1,0 +1,27 @@
+{
+  "type": "zenithcraft:crucible_jei_type",
+  "ingredients": [
+    {
+      "item": "zenithcraft:umbrum_ingot"
+    },
+    {
+      "item": "zenithcraft:umbrum_ingot"
+    },
+    {
+      "item": "zenithcraft:umbrum_ingot"
+    },
+    {
+      "item": "zenithcraft:umbrum_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "zenithcraft:molten_netherite"
+    }
+  ],
+  "output": {
+    "item": "zenithcraft:molten_netherite_bucket",
+    "count": 1
+  }
+}

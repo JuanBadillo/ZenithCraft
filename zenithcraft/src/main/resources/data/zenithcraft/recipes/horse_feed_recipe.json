@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:hay_block"
+    },
+    {
+      "item": "zenithcraft:green_apple"
+    },
+    {
+      "item": "zenithcraft:green_apple"
+    },
+    {
+      "item": "minecraft:golden_carrot"
+    }
+  ],
+  "result": {
+    "item": "farmersdelight:horse_feed",
+    "count": 1
+  }
+}

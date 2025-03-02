@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zenithcraft:orange"
+    },
+    {
+      "tag": "forge:cooked_chicken"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    }
+  ],
+  "result": {
+    "item": "zenithcraft:orange_chicken",
+    "count": 1
+  }
+}

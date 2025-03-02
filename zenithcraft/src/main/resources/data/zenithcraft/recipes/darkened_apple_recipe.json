@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "alexscaves:pure_darkness"
+    },
+    "b": {
+      "item": "zenithcraft:green_apple"
+    }
+  },
+  "result": {
+    "item": "alexscaves:darkened_apple",
+    "count": 1
+  }
+}

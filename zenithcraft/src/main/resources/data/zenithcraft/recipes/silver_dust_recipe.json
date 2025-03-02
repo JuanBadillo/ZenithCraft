@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zenithcraft:silver_ingot"
+    }
+  ],
+  "result": {
+    "item": "zenithcraft:silver_dust",
+    "count": 3
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "zenithcraft:crucible_jei_type",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:bucket"
+    },
+    {
+      "item": "zenithcraft:molten_gold"
+    }
+  ],
+  "output": {
+    "item": "zenithcraft:molten_gold_bucket",
+    "count": 1
+  }
+}
