@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:AmahDagger"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "block.grindstone.use"
+    },
+    "igniteFire": false,
+    "power": 1.0,
+    "damage": 6.0,
+    "knockback": 5,
+    "entityModel": "Default",
+    "customModelTexture": "",
+    "onHitsEntity": {
+      "name": "IronDaggerThrownProjectileHitsLivingEntity"
+    }
+  }
+}

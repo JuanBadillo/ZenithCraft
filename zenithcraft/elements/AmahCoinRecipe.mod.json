@@ -1,0 +1,16 @@
+{
+  "_fv": 60,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "coin_press_jei_type",
+    "result": {
+      "value": "CUSTOM:AmahPiece"
+    },
+    "count": 1,
+    "ingredients": [
+      {
+        "value": "CUSTOM:AmahIngot"
+      }
+    ]
+  }
+}

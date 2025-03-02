@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "bark",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AppleLog"
+      },
+      {
+        "value": "CUSTOM:AppleLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AppleLog"
+      },
+      {
+        "value": "CUSTOM:AppleLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AppleWood"
+    },
+    "name": "apple_wood_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "amah_greatsword",
+    "customModelName": "greatsword:amah",
+    "blockingModelName": "Normal blocking",
+    "name": "Amah Greatsword",
+    "specialInformation": {
+      "fixedValue": [
+        "§7Heavy",
+        "§7Two-handed",
+        "§7Reach",
+        "§eHigh Enchantability"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraftWeaponry"
+    },
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 0.6,
+    "enchantability": 28,
+    "damageVsEntity": 13.0,
+    "usageCount": 1100,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:AmahIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onCrafted": {
+      "name": "AmahGreatswordItemIsCraftedsmelted"
+    },
+    "onItemInUseTick": {
+      "name": "TwoHandedProcedure"
+    }
+  }
+}

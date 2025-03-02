@@ -1,0 +1,39 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "amah_mace",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Amah Mace",
+    "specialInformation": {
+      "fixedValue": [
+        "§eHigh Enchantability"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraftWeaponry"
+    },
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 0.8,
+    "enchantability": 14,
+    "damageVsEntity": 7.0,
+    "usageCount": 1100,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:AmahIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
