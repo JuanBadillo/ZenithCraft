@@ -1,0 +1,64 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mead"
+      },
+      "name": "default"
+    },
+    "redwine": {
+      "map": {
+        "0": "red_wine"
+      },
+      "name": "redwine"
+    },
+    "rosewine": {
+      "map": {
+        "0": "rose_wine"
+      },
+      "name": "rosewine"
+    },
+    "whitewine": {
+      "map": {
+        "0": "white_wine"
+      },
+      "name": "whitewine"
+    },
+    "whiskey": {
+      "map": {
+        "0": "whiskey"
+      },
+      "name": "whiskey"
+    },
+    "tequila": {
+      "map": {
+        "0": "tequila"
+      },
+      "name": "tequila"
+    },
+    "vodka": {
+      "map": {
+        "0": "vodka"
+      },
+      "name": "vodka"
+    },
+    "rum": {
+      "map": {
+        "0": "rum"
+      },
+      "name": "rum"
+    },
+    "soju": {
+      "map": {
+        "0": "soju"
+      },
+      "name": "soju"
+    },
+    "mug": {
+      "map": {
+        "0": "tankard"
+      },
+      "name": "mug"
+    }
+  }
+}

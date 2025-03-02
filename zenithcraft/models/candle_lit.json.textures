@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "plank": "oak_planks",
+        "shelf": "bookshelf"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "candy_bowl",
+		"bowl": "candy_bowl",
+		"top": "candy_bowl_top",
+		"bottom": "candy_bowl_bottom",
+		"candy": "candy_bowl_candy"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [13, 7, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3.5, 8]},
+			"faces": {
+				"north": {"uv": [3, 0, 13, 7], "texture": "#bowl"},
+				"east": {"uv": [3, 0, 13, 7], "texture": "#bowl"},
+				"south": {"uv": [3, 0, 13, 7], "texture": "#bowl"},
+				"west": {"uv": [3, 0, 13, 7], "texture": "#bowl"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#top"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#bottom"}
+			}
+		},
+		{
+			"from": [4, 7, 4],
+			"to": [12, 8, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.5, 8]},
+			"faces": {
+				"north": {"uv": [12, 4, 4, 5], "texture": "#candy"},
+				"east": {"uv": [11, 4, 12, 12], "rotation": 90, "texture": "#candy"},
+				"south": {"uv": [4, 11, 12, 12], "texture": "#candy"},
+				"west": {"uv": [4, 12, 5, 4], "rotation": 90, "texture": "#candy"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#candy"},
+				"down": {"uv": [4, 12, 12, 4], "texture": "#candy"}
+			}
+		}
+	]
+}

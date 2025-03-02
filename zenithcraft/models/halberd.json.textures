@@ -1,0 +1,40 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "golden_halberd"
+      },
+      "name": "default"
+    },
+    "iron": {
+      "map": {
+        "3": "iron_halberd"
+      },
+      "name": "iron"
+    },
+    "gold": {
+      "map": {
+        "3": "golden_halberd"
+      },
+      "name": "gold"
+    },
+    "steel": {
+      "map": {
+        "3": "steel_halberd"
+      },
+      "name": "steel"
+    },
+    "bronze": {
+      "map": {
+        "3": "bronze_halberd"
+      },
+      "name": "bronze"
+    },
+    "amah": {
+      "map": {
+        "3": "amah_halberd"
+      },
+      "name": "amah"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "crucible_side_heat",
+        "top": "crucible_top",
+        "4": "molten_steel",
+        "bottom": "crucible_bottom_heat",
+        "inside": "crucible_inside"
+      },
+      "name": "default"
+    },
+    "heated": {
+      "map": {
+        "side": "crucible_side_heat",
+        "top": "crucible_top",
+        "4": "molten_steel",
+        "bottom": "crucible_bottom_heat",
+        "inside": "crucible_inside"
+      },
+      "name": "heated"
+    }
+  }
+}

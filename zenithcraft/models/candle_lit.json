@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "bookshelf",
+		"shelf": "bookshelf",
+		"plank": "oak_planks"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#shelf"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#shelf"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#shelf"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#shelf"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#plank"}
+			}
+		},
+		{
+			"from": [0, 16, 0],
+			"to": [16, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 16, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#shelf"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#shelf"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#shelf"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#shelf"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#plank"}
+			}
+		}
+	]
+}

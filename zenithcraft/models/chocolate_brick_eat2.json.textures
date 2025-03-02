@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "black_chocolate_bricks_eaten",
+        "brick": "black_chocolate_bricks"
+      },
+      "name": "default"
+    }
+  }
+}

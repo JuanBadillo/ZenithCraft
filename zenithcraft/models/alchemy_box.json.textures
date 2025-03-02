@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "alchemy_jug_side",
+        "jug": "alchemy_jug"
+      },
+      "name": "default"
+    }
+  }
+}

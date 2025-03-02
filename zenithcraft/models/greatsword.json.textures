@@ -1,0 +1,40 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": ""
+      },
+      "name": "default"
+    },
+    "iron": {
+      "map": {
+        "2": "iron_greatsword"
+      },
+      "name": "iron"
+    },
+    "gold": {
+      "map": {
+        "2": "golden_greatsword"
+      },
+      "name": "gold"
+    },
+    "steel": {
+      "map": {
+        "2": "steel_greatsword"
+      },
+      "name": "steel"
+    },
+    "bronze": {
+      "map": {
+        "2": "bronze_greatsword"
+      },
+      "name": "bronze"
+    },
+    "amah": {
+      "map": {
+        "2": "amah_greatsword"
+      },
+      "name": "amah"
+    }
+  }
+}

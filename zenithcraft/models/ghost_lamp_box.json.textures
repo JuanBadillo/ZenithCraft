@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cage_with_a_ghost",
+        "missing": "cage_with_a_ghost"
+      },
+      "name": "default"
+    }
+  }
+}

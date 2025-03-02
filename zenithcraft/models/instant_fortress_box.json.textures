@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "instant_fortress",
+        "1": "instant_fortress_front",
+        "3": "instant_fortress_tower"
+      },
+      "name": "default"
+    }
+  }
+}

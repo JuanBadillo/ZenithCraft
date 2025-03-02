@@ -1,0 +1,46 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": ""
+      },
+      "name": "default"
+    },
+    "iron": {
+      "map": {
+        "5": "iron_spear"
+      },
+      "name": "iron"
+    },
+    "gold": {
+      "map": {
+        "5": "golden_spear"
+      },
+      "name": "gold"
+    },
+    "steel": {
+      "map": {
+        "5": "steel_spear"
+      },
+      "name": "steel"
+    },
+    "bronze": {
+      "map": {
+        "5": "bronze_spear"
+      },
+      "name": "bronze"
+    },
+    "amah": {
+      "map": {
+        "5": "amah_spear"
+      },
+      "name": "amah"
+    },
+    "bronze2": {
+      "map": {
+        "5": "bronze_spear"
+      },
+      "name": "bronze2"
+    }
+  }
+}

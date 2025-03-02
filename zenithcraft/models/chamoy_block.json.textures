@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "chamoy_block",
+        "1": "chamoy_block_inside"
+      },
+      "name": "default"
+    }
+  }
+}

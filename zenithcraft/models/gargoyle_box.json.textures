@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "gargoyle": "gargoyle"
+      },
+      "name": "default"
+    }
+  }
+}

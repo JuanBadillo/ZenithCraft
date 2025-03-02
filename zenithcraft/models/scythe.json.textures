@@ -1,0 +1,40 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "4": ""
+      },
+      "name": "default"
+    },
+    "iron": {
+      "map": {
+        "4": "iron_scythe"
+      },
+      "name": "iron"
+    },
+    "gold": {
+      "map": {
+        "4": "golden_scythe"
+      },
+      "name": "gold"
+    },
+    "steel": {
+      "map": {
+        "4": "steel_scythe"
+      },
+      "name": "steel"
+    },
+    "bronze": {
+      "map": {
+        "4": "bronze_scythe"
+      },
+      "name": "bronze"
+    },
+    "amah": {
+      "map": {
+        "4": "amah_scythe"
+      },
+      "name": "amah"
+    }
+  }
+}

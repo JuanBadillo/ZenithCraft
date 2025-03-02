@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "deco_top": "mirror_deco_top",
+        "electrum": "electrum_block",
+        "mirror": "mirror_block",
+        "deco_bottom": "mirror_deco_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

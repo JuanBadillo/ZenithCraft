@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "caster": "thaumcaster",
+        "bottle": "thaumcaster_bottle"
+      },
+      "name": "default"
+    }
+  }
+}

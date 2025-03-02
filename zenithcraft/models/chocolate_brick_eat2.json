@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "black_chocolate_bricks_eaten",
+		"side": "black_chocolate_bricks_eaten",
+		"brick": "black_chocolate_bricks"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#side"},
+				"east": {"uv": [0, 0, 8, 16], "texture": "#brick"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#brick"},
+				"west": {"uv": [8, 0, 16, 16], "texture": "#brick"},
+				"up": {"uv": [0, 8, 16, 16], "texture": "#brick"},
+				"down": {"uv": [0, 0, 16, 8], "texture": "#brick"}
+			}
+		}
+	]
+}

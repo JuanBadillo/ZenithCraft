@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "electrum": "electrum_block",
+        "mirror": "mirror_block"
+      },
+      "name": "default"
+    }
+  }
+}

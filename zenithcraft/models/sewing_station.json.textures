@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "sewing_side",
+        "top": "sewing_top",
+        "machine": "sewing_machine",
+        "front": "sewing_front"
+      },
+      "name": "default"
+    }
+  }
+}

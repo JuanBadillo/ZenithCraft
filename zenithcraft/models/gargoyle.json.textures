@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "wing": "gargoyle_wing",
+        "gargoyle": "gargoyle"
+      },
+      "name": "default"
+    }
+  }
+}

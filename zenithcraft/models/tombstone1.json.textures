@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tombstone1",
+        "missing": "tombstone1"
+      },
+      "name": "default"
+    }
+  }
+}

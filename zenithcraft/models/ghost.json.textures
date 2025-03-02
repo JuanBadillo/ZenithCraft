@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ghost_statue",
+        "missing": "ghost_statue"
+      },
+      "name": "default"
+    }
+  }
+}

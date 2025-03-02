@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "crucible_side",
+        "top": "crucible_top",
+        "bottom": "crucible_bottom",
+        "inside": "crucible_inside"
+      },
+      "name": "default"
+    }
+  }
+}

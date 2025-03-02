@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "beer"
+      },
+      "name": "default"
+    },
+    "red": {
+      "map": {
+        "1": "red_beer"
+      },
+      "name": "red"
+    },
+    "blue": {
+      "map": {
+        "1": "blue_ale"
+      },
+      "name": "blue"
+    },
+    "black": {
+      "map": {
+        "1": "black_lager"
+      },
+      "name": "black"
+    }
+  }
+}

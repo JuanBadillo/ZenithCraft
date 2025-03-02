@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "top": "candy_bowl_top",
+        "candy": "candy_bowl_candy",
+        "bottom": "candy_bowl_bottom",
+        "bowl": "candy_bowl"
+      },
+      "name": "default"
+    }
+  }
+}
