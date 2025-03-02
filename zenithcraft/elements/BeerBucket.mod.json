@@ -1,0 +1,58 @@
+{
+  "_fv": 60,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "beer_bucket",
+    "customModelName": "Normal",
+    "customProperties": {},
+    "states": [],
+    "name": "Bucket of Beer",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraft"
+    },
+    "stackSize": 16,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": [
+        "§9Inebration (01:30)"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onFinishUsingItem": {
+      "name": "WheatAlePlayerFinishesUsingItem"
+    },
+    "enableRanged": false,
+    "shootConstantly": false,
+    "projectile": {
+      "value": "Arrow"
+    },
+    "isFood": true,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": "Items.BUCKET"
+    },
+    "isMeat": false,
+    "isAlwaysEdible": true,
+    "animation": "drink"
+  }
+}

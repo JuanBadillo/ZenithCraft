@@ -1,0 +1,37 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "bronze_mace",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Bronze Mace",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraftWeaponry"
+    },
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 0.8,
+    "enchantability": 14,
+    "damageVsEntity": 5.0,
+    "usageCount": 200,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:BronzeIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

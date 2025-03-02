@@ -1,0 +1,43 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "bronze_scythe",
+    "customModelName": "scythe:bronze",
+    "blockingModelName": "Normal blocking",
+    "name": "Bronze Scythe",
+    "specialInformation": {
+      "fixedValue": [
+        "§7Heavy",
+        "§7Two-handed"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraftWeaponry"
+    },
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 3.0,
+    "enchantability": 14,
+    "damageVsEntity": 7.0,
+    "usageCount": 200,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:BronzeIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onItemInUseTick": {
+      "name": "TwoHandedProcedure"
+    }
+  }
+}

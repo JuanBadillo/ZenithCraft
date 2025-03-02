@@ -1,0 +1,42 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Spade",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "bronze_spear",
+    "customModelName": "spear:bronze2",
+    "blockingModelName": "Normal blocking",
+    "name": "Bronze Spear",
+    "specialInformation": {
+      "fixedValue": [
+        "§7Thrown"
+      ]
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraftWeaponry"
+    },
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.6,
+    "enchantability": 14,
+    "damageVsEntity": 5.0,
+    "usageCount": 200,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:BronzeIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedInAir": {
+      "name": "IronSpearRightclicked"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Hoe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "bronze_hoe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Bronze Hoe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:ZenithCraft"
+    },
+    "harvestLevel": 2,
+    "efficiency": 5.0,
+    "attackSpeed": 2.0,
+    "enchantability": 14,
+    "damageVsEntity": 1.0,
+    "usageCount": 200,
+    "blocksAffected": [],
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:BronzeIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

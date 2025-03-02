@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:BronzeDagger"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "block.grindstone.use"
+    },
+    "igniteFire": false,
+    "power": 1.0,
+    "damage": 3.9999999999999996,
+    "knockback": 5,
+    "entityModel": "Default",
+    "customModelTexture": "",
+    "onHitsEntity": {
+      "name": "IronDaggerThrownProjectileHitsLivingEntity"
+    }
+  }
+}
